@@ -1,3 +1,3 @@
 # VirtueSemantics
 
-#looking at embeddings and undersstanding of virtue within LLMs
+looking at embeddings and undersstanding of virtue within LLMs
